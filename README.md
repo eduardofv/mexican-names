@@ -13,3 +13,5 @@ La limpieza y el procesamiento de los datos está en [analizar_nombres_sep.R](an
 
 Se usa un formato similar al de los [nombres y apellidos frecuentes en España](https://github.com/marcboquet/spanish-names/) de donde se inspiró este proyecto. Hay que notar que es una muestra grande pero dos órdenes de magnitud menor a lo que sería una completa y que está segmentada al ser únicamente trabajadores de la SEP. Los archivos originales y procesados estan en [data/sep](data/sep).
 
+[Repositorio en datos abiertos](http://datamx.io/dataset/muestra-de-nombres-y-apellidos-comunes-en-mexico)
+
